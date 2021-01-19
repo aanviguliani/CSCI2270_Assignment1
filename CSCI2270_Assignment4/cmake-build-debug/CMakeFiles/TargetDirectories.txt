@@ -1,0 +1,4 @@
+/Users/aanvi/CLionProjects/CSCI2270_Assignment4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aanvi/CLionProjects/CSCI2270_Assignment4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aanvi/CLionProjects/CSCI2270_Assignment4/cmake-build-debug/CMakeFiles/ProducerConsumer.dir
+/Users/aanvi/CLionProjects/CSCI2270_Assignment4/cmake-build-debug/CMakeFiles/RPNCalculator.dir
